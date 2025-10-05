@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/646323898650639641/36292a67bcf6499897a7339e5afab115/artifacts
+end_time: 1759660816458
+entry_point_name: ''
+experiment_id: '646323898650639641'
+lifecycle_stage: active
+run_id: 36292a67bcf6499897a7339e5afab115
+run_name: thoughtful-goose-89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759660814647
+status: 3
+tags: []
+user_id: rajatcoredge.io
