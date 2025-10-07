@@ -167,6 +167,9 @@ mlflow gc --backend-store-uri sqlite:///mlflow.db
 
 ---
 
+<img width="800" height="1000" alt="image" src="https://github.com/user-attachments/assets/858fe96f-3081-427b-91e2-dcc165b3893a" />
+
+
 ✅ **Workflow Summary**
 
 1. Define experiment → `mlflow.set_experiment("exp_name")`
