@@ -166,7 +166,8 @@ mlflow gc --backend-store-uri sqlite:///mlflow.db
 ```
 
 ---
-![Uploading image.png…]()
+<img width="1237" height="975" alt="image" src="https://github.com/user-attachments/assets/6d3fb78b-9027-4dab-ad55-4009faed2a0b" />
+
 
 
 
