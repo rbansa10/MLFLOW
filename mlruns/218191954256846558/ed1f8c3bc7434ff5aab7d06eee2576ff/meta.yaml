@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/218191954256846558/ed1f8c3bc7434ff5aab7d06eee2576ff/artifacts
+end_time: 1760074445942
+entry_point_name: ''
+experiment_id: '218191954256846558'
+lifecycle_stage: active
+run_id: ed1f8c3bc7434ff5aab7d06eee2576ff
+run_name: handsome-snail-335
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760074443518
+status: 3
+tags: []
+user_id: rajatcoredge.io
